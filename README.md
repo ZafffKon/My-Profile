@@ -16,23 +16,22 @@
   <img src="https://img.shields.io/badge/🎓-Universitas Mercu Buana%20Information%20Systems-ADD8E6?style=for-the-label" />
 </p>
 
----
-
 ## 👨‍💻 About Me
+```yaml
+🔭 Currently Interning At: Student Admissions Universitas Mercu Buana
+🌱 Currently Learning: Front End Dev and UI/UX Design
+📍 Location: I am in Jakarta, Indonesia
+⚡ Fun fact: I like coding while drinking coffee and smoking☕
+```
 
-- 🔭 Currently Interning At **Student Admissions Universitas Mercu Buana**
-- 🌱 Currently Learning **Front End Dev and UI/UX Design**
-- 📍 I am in **Jakarta, Indonesia**
-- ⚡ Fun fact: **I like coding while drinking coffee and smoking☕**
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,mysql&perline=12" alt="Tech stack"/>
 </p>
 
-## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZafffKon&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafffKon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
@@ -46,14 +45,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
 </p>
 
-## 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZafffKon&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy"/>
-</p>
 
 ## 📌 Proyek Unggulan
-
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
@@ -68,7 +61,7 @@
     <img src="https://img.shields.io/badge/Status-Private-lightgrey?style=flat-square"/>
     </td>
         <td width="50%" valign="top" align="center">
-      <h3>📚 TA Skripsi: Penerapan KMS</h3>
+      <h3>📚 <a href=https://github.com/ZafffKon/TA_Skripsian_Penerapan-KMS">TA Skripsi: Penerapan KMS</h3>
       <p>Knowledge Management System untuk tugas akhir</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -82,14 +75,15 @@
   </tr>
 </table>
 
-## 💡 Kutipan
 
+## 💡 Kutipan
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+  <i>"Always be grateful, even if you’re an WNI for life"</i><br/>
+  <sub>— Zafar</sub>
 </p>
 
-## 📫 Hubungi Saya
 
+📫 Contact me in:
 <p align="center">
   <a href="https://linkedin.com/in/Muhammad Zafar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:muhammadzafar2709@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
