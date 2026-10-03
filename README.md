@@ -57,13 +57,13 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/ZafffKon/proyek-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=proyek-1&theme=tokyonight&hide_border=true"/>
+      <a href="https://github.com/ZafffKon/TA_Skripsian_Penerapan-KMS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=TA_Skripsian_Penerapan-KMS&theme=tokyonight&hide_border=true"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/ZafffKon/proyek-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=proyek-2&theme=tokyonight&hide_border=true"/>
+      <a href="https://github.com/ZafffKon/UAS-TODO-list">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=UAS-TODO-list&theme=tokyonight&hide_border=true"/>
       </a>
     </td>
   </tr>
