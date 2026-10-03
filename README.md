@@ -13,34 +13,33 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZafffKon&label=Profile+views&color=6366f1&style=flat" alt="Views"/>
-  <img src="https://img.shields.io/github//ZafffKon?style=flat&color=a855f7&logo=instagram" alt="Stars"/>
+  <img src="https://img.shields.io/badge/🎓/USERNAME?style=flat&color=a855f7&logo=github" alt="Stars"/>
 </p>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-- 🔭 Sedang mengerjakan **[nama proyek]**
-- 🌱 Sedang belajar **TypeScript & Cloud**
-- 💬 Tanya saya tentang **JavaScript, React, Node.js**
-- 📍 Berbasis di **Jakarta, Indonesia**
-- ⚡ Fun fact: **suka ngoding sambil ngopi ☕**
+- 🔭 Currently Interning At **Student Admissions Universitas Mercu Buana**
+- 🌱 Currently Learning **Front End Dev and UI/UX Design**
+- 📍 I am in **Jakarta, Indonesia**
+- ⚡ Fun fact: **I like coding while drinking coffee and smoking☕**
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,docker,mysql,postgres&perline=12" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,mysql&perline=12" alt="Tech stack"/>
 </p>
 
-## 📊 Statistik GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZafffKon&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafffKon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ZafffKon&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center">
@@ -50,7 +49,7 @@
 ## 🏆 Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZafffKon&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy"/>
 </p>
 
 ## 📌 Proyek Unggulan
@@ -58,13 +57,13 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/USERNAME/proyek-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=proyek-1&theme=tokyonight&hide_border=true"/>
+      <a href="https://github.com/ZafffKon/proyek-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=proyek-1&theme=tokyonight&hide_border=true"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/USERNAME/proyek-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=proyek-2&theme=tokyonight&hide_border=true"/>
+      <a href="https://github.com/ZafffKon/proyek-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=proyek-2&theme=tokyonight&hide_border=true"/>
       </a>
     </td>
   </tr>
@@ -79,9 +78,9 @@
 ## 📫 Hubungi Saya
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:email@anda.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ZafffKon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:muhammadzafar2709@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/siapa_zafar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://portofolio-anda.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
