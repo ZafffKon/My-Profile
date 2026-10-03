@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZafffKon&label=Profile+views&color=6366f1&style=flat" alt="Views"/>
-  <img src="https://img.shields.io/badge/🎓/USERNAME?style=flat&color=a855f7&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/🎓-Universitas Mercu Buana%20Information%20Systems-ADD8E6?style=for-the-label" />
 </p>
 
 ---
@@ -78,9 +78,9 @@
 ## 📫 Hubungi Saya
 
 <p align="center">
-  <a href="https://linkedin.com/in/ZafffKon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Muhammad Zafar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:muhammadzafar2709@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/siapa_zafar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/@siapa_zafar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://portofolio-anda.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
