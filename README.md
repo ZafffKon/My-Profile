@@ -56,15 +56,28 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/ZafffKon/TA_Skripsian_Penerapan-KMS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=TA_Skripsian_Penerapan-KMS&theme=tokyonight&hide_border=true"/>
-      </a>
+    <td width="50%" valign="top" align="center">
+      <h3>📝 <a href="https://github.com/ZafffKon/UAS-TODO-list">UAS TODO List</a></h3>
+      <p>Aplikasi manajemen tugas dengan autentikasi dan CRUD lengkap</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Status-Private-lightgrey?style=flat-square"/>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ZafffKon/UAS-TODO-list">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZafffKon&repo=UAS-TODO-list&theme=tokyonight&hide_border=true"/>
-      </a>
+        <td width="50%" valign="top" align="center">
+      <h3>📚 TA Skripsi: Penerapan KMS</h3>
+      <p>Knowledge Management System untuk tugas akhir</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-Private-lightgrey?style=flat-square"/>
     </td>
   </tr>
 </table>
